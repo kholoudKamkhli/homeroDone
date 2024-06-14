@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "657531623440",
+    "project_id": "homear-intern",
+    "storage_bucket": "homear-intern.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657531623440:android:53890e6eff06dd77af1295",
+        "android_client_info": {
+          "package_name": "com.example.homero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657531623440-77sosbqniuk7ur6plu6itc5v5hc26n58.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homero",
+            "certificate_hash": "c449e723f7330a380db4f0b41cac444fb6786ae7"
+          }
+        },
+        {
+          "client_id": "657531623440-0nu079tsdb4pquehn4q9gopimbl4rulo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB2-InEzrgTVU9doXPqWoB0bLR1H9dYVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657531623440-0nu079tsdb4pquehn4q9gopimbl4rulo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "657531623440-kq8k0su1e2hd8mvllcvbuh0rascfb3ch.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.homero"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

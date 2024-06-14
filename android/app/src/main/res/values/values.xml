@@ -1,0 +1,8 @@
+<resources>
+<!--    <string name="facebook_app_id">3393396384207096</string>-->
+    <string name="app_name">homero</string>
+<!--    <string name="fb_login_protocol_scheme">YOUR_FACEBOOK_LOGIN_SCHEME</string>-->
+    <string name="facebook_client_token">YOUR_CLIENT_ACCESS_TOKEN</string>
+    <string name="facebook_app_id">3393396384207096</string>
+    <string name="fb_login_protocol_scheme">fbb14e9c5e5e94dd3652629f342d828a24</string>
+</resources>
